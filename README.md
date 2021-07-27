@@ -4,4 +4,5 @@ This study uses BERT to summarize court decision  documents in narcotics cases. 
 ![image](https://user-images.githubusercontent.com/58100290/127113488-fe4de719-451b-4d87-8291-80ba288a15b2.png)
 
 DOC A : court decision documents with the  identity of the defendant
+
 DOC B : court decision documents without the  identity of the defendant
